@@ -1,2 +1,2 @@
-# jmedina-myapi-infra
-Código de infraestructura para myapi.
+# myAPI-terraform
+myAPI is the proyect used in bedu DevOps Fundamentals course
